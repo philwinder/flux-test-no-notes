@@ -1,0 +1,1 @@
+{"jobID":"d40a379c-ba42-ea34-0342-730b8f678163","spec":{"type":"policy","cause":{"Message":"","User":"phil-mac"},"spec":{"default/helloworld":{"add":null,"remove":["automated"]}}},"result":null}
